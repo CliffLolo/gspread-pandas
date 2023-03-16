@@ -15,6 +15,9 @@ Below are the inks to the articles:
 
 The repo includes a Python script that connects to a Google Sheet, reads the data into a Pandas dataframe, and performs some basic data analysis.
 
+Link to google sheet I used for this demo:
+- [Products Data](https://docs.google.com/spreadsheets/d/1vbpdRUd5xz6DlH4S0pXCVNN1WUynSPnnzMgsiv9RgHk/edit?usp=sharing)
+
 ## Insights
 ### Best selling product
 ![bestsellingpng](https://user-images.githubusercontent.com/41656028/225515367-1a312f90-1e0a-4ec6-b52c-d84fbb90a3d9.png)
