@@ -17,8 +17,7 @@ The repo includes a Python script that connects to a Google Sheet, reads the dat
 
 ## Insights
 ### Best selling product
-![bestselling](https://user-images.githubusercontent.com/41656028/225513813-62e3ed46-6e58-4e24-9c45-45e1572964a4.png)
-
+![bestsellingpng](https://user-images.githubusercontent.com/41656028/225515367-1a312f90-1e0a-4ec6-b52c-d84fbb90a3d9.png)
 ### Most popular city
 ![mostpopular](https://user-images.githubusercontent.com/41656028/225513807-239bf5cd-c854-41e4-87c7-e96da49fb893.png)
 
