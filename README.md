@@ -7,10 +7,10 @@ This project demonstrates how to use gspread and Pandas to manage data in Google
 I talk about how to install gspread and configure it for it to work.**
 
 Below are the inks to the articles:
-- [Supercharge Your Data Analytics with gspread and Pandas: A Hands-On Tutorial (Part 1)](https://medium.com/p/c372ec239750/edit)
+- [Supercharge Your Data Analytics with gspread and Pandas: A Hands-On Tutorial (Part 1)](https://clifflolo.medium.com/supercharge-your-data-analytics-with-gspread-and-pandas-a-hands-on-tutorial-part-1-c372ec239750)
 
 
-- [Supercharge Your Data Analytics with gspread and Pandas: A Hands-On Tutorial (Part 2)](https://medium.com/p/32ed216ca37e/edit)
+- [Supercharge Your Data Analytics with gspread and Pandas: A Hands-On Tutorial (Part 2)](https://medium.com/@clifflolo/supercharge-your-data-analytics-with-gspread-and-pandas-a-hands-on-tutorial-part-2-32ed216ca37e)
 
 
 The repo includes a Python script that connects to a Google Sheet, reads the data into a Pandas dataframe, and performs some basic data analysis.
